@@ -1,0 +1,5 @@
+--find-links https://mlc.ai/wheels
+# MLC dependencies are installed from nightly wheels in install.sh
+# using: pip install --pre -U -f https://mlc.ai/wheels mlc-llm-nightly-cpu mlc-ai-nightly-cpu
+typer==0.9.0
+rich==13.3.5 

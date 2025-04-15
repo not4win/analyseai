@@ -1,0 +1,9 @@
+{
+  "model_lib": "Qwen2-0.5B-Instruct-q4f16_1-MLC",
+  "chat_template": "chatml",
+  "tokenizer_files": [],
+  "tensor_parallel_shards": 1,
+  "prefill_chunk_size": 16,
+  "max_window_size": 512,
+  "device": "cpu"
+} 
